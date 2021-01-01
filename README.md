@@ -9,7 +9,7 @@ Check out [My Daily Progress](./MyDailyProgress.md)
 **Quick Links**
 1. [DAY 1](./Day-1/notes.md)
 
-**Useful Links**
+**Socials**
 1. [Here's my Twitter](https://twitter.com/umuks_)
 2. [Read my blog posts on Hashnode](https://godswillumukoro.hashnode.dev/)
 
