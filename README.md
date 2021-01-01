@@ -7,8 +7,7 @@ Started this journey on January 1, 2021.
 Check out [My Daily Progress](./MyDailyProgress.md)
 
 **Quick Links**
-
-[DAY 1](./Day-1/notes.md)
+1. [DAY 1](./Day-1/notes.md)
 
 **Useful Links**
 1. [Here's my Twitter](https://twitter.com/umuks_)
