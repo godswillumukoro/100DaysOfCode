@@ -10,7 +10,7 @@ What ultimately matters in this course is where you end up relative to yourself 
 
 ### What really is computer science?
 
-![image showing input - box - output](./1.img)
+![image showing input - box - output](./1.png)
 
 Computer science is problem solving.
 
