@@ -8,4 +8,4 @@
 
 **Detailed Notes:** [Read more](./Day-1/notes.md)
 
-[Tweet](https://twitter.com/umuks_/status/1345085407093022720?s=20)
+[Here's the tweet](https://twitter.com/umuks_/status/1345085407093022720?s=20)
