@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-My coding Journey for One hundred days of coding, learning, debugging and demystifying programming concepts
+My Journey for One hundred days of coding, learning, debugging and demystifying programming concepts
 
 Started this journey on January 1, 2021.
 
