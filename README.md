@@ -6,4 +6,5 @@ Started January 1, 2021.
 Check out [My Daily Progress](./MyDailyProgress.md)
 
 QUICK LINKS:
-[DAY 1](./day-1/notes.md)
+
+[DAY 1](./Day-1/notes.md)
