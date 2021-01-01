@@ -4,7 +4,7 @@ My coding Journey for One hundred days of coding, learning, debugging and demyst
 
 Started this journey on January 1, 2021.
 
-Check out [My Daily Progress](./MyDailyProgress.md)
+Check out **[My Daily Progress](./MyDailyProgress.md)**
 
 **Quick Links**
 1. [DAY 1](./Day-1/notes.md)
