@@ -12,6 +12,6 @@ Check out [My Daily Progress](./MyDailyProgress.md)
 
 **Useful Links**
 1. [Here's my Twitter](https://twitter.com/umuks_)
-2. [Read my blog posts on Hashnode](https://hashnode.com/5fb9f0081b7ab0041800dcae/dashboard)
+2. [Read my blog posts on Hashnode](https://godswillumukoro.hashnode.dev/)
 
 
