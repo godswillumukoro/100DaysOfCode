@@ -2,7 +2,7 @@
 
 04-01-2021
 
-(Tweet Link:)[https://twitter.com/umuks_/status/1346179109265813506?s=20]
+[Tweet Link: ](https://twitter.com/umuks_/status/1346179109265813506?s=20)
 
 The computer represents colors with numbers. For example, a common representation system that the computer uses today is what's called the RGB which stands for Red, Green, Blue. The computer can display any color in the rainbow using a combination of some red, green and blue colors. The computer represents each of the colors as numbers. eg. rgb(10,34,61).
 
