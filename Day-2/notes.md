@@ -1,3 +1,7 @@
+## DAY 2:
+
+04-01-2021
+
 The computer represents colors with numbers. For example, a common representation system that the computer uses today is what's called the RGB which stands for Red, Green, Blue. The computer can display any color in the rainbow using a combination of some red, green and blue colors. The computer represents each of the colors as numbers. eg. rgb(10,34,61).
 
 An Emoji is also made up of bits, just like any key on the keyboard.
@@ -21,3 +25,22 @@ Algorithms: Step-by=step instructions for solving problems. eg, humans may follo
 INPUT - ALGORITHMS - OUTPUT
 
 Functions: Verb or actions, telling the computer to do something.
+
+Conditions: Or branches are tells the computer, "You can either do this or that or maybe this other thing. But how does the computer know what to do? Boolean expression!
+
+Boolean: A question, whose answer is yes or no, true or false, 0 or 1.
+
+Loop: Gets the computer to reuse parts of code over again so you don't have to write so many lines of algorithm.
+
+Algorithm vs Function:
+
+Algorithm: Step-by-step instruction
+
+Function: The computer's implementation of an algorithm.
+
+Elements of Software Design
+
+1. Fatser
+2. Efficient
+3. Don't repeat yourself+
+4. Abstraction: Taking a complicated idea but agreeing to see it on a more simple level.
