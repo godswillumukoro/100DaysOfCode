@@ -19,3 +19,13 @@
 **Detailed Notes:** [Read more](./Day-2/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1346179109265813506?s=20)
+
+### Day 3: January 5, 2021
+
+**Today's Progress**: Finished Week 1 of CS50 2021 work
+
+**Thoughts:** Started using the programming language called C. The instructor, David Malan did an amazing job at teasing apart a lot of the hard concepts right from the start of the [course](https://cs50.harvard.edu/x/2021/)
+
+**Detailed Notes:** [Read more](./Day-3/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1346559792018567168?s=20)
