@@ -2,6 +2,8 @@
 
 05-01-2021
 
+(Here's the tweet)[https://twitter.com/umuks_/status/1346559792018567168?s=20]
+
 Learning to use the programming language called C. It a different programming langugae from scratch because its text-based. But ut still contains all the main feature of the formaer language learnt like:
 
 - function
