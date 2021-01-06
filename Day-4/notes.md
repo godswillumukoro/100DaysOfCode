@@ -1,7 +1,7 @@
 ## DAY 4:
 
 06-01-2021
-[Here's the tweet](https://twitter.com/umuks_/status/1346559792018567168?s=20)
+[Here's the tweet](https://twitter.com/umuks_/status/1346901949564788740?s=20)
 
 WEEK2 - ARRAYS
 
