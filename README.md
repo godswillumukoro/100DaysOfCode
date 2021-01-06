@@ -9,7 +9,8 @@ Check out **[My Daily Progress](./MyDailyProgress.md)**
 **Quick Links**
 1. [DAY 1](./Day-1/notes.md)
 2. [DAY 2](./Day-2/notes.md)
-2. [DAY 3](./Day-3/notes.md)
+3. [DAY 3](./Day-3/notes.md)
+4. [DAY 4](./Day-4/notes.md)
 
 **Socials**
 1. [Here's my Twitter](https://twitter.com/umuks_)
