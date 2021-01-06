@@ -29,3 +29,13 @@
 **Detailed Notes:** [Read more](./Day-3/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1346559792018567168?s=20)
+
+### Day 4: January 6, 2021
+
+**Today's Progress**: Started Week 2 of CS50 2021 [work](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned to use Arrays in C  
+
+**Detailed Notes:** [Read more](./Day-4/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1346559792018567168?s=20)
