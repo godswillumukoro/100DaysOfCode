@@ -38,4 +38,4 @@
 
 **Detailed Notes:** [Read more](./Day-4/notes.md)
 
-[Here's the tweet](https://twitter.com/umuks_/status/1346559792018567168?s=20)
+[Here's the tweet](https://twitter.com/umuks_/status/1346901949564788740?s=20)
