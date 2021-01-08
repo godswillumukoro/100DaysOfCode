@@ -39,3 +39,13 @@
 **Detailed Notes:** [Read more](./Day-4/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1346901949564788740?s=20)
+
+### Day 5: January 8, 2021
+
+**Today's Progress**: Continued with Week 2 of CS50 2021 work [work](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned the diff. between Strings and Chars  
+
+**Detailed Notes:** [Read more](./Day-5/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1347676183681490952?s=20)
