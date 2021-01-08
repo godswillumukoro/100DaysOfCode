@@ -4,6 +4,8 @@
 
 Continued WEEK2 - ARRAYS
 
+[Here's the tweet](https://twitter.com/umuks_/status/1347676183681490952?s=20)
+
 **Type Casting:**
 
 **Explicit Type coercion:** You tell the computer what type it should change the variable to, using: (DataType).
