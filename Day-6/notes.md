@@ -4,6 +4,8 @@
 
 Continued WEEK2 - ARRAYS
 
+[Here's the tweet](https://twitter.com/umuks_/status/1348365356528775168?s=20)
+
 To check for null in a for-loop:
 
 ```css
