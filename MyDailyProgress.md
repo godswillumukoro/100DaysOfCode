@@ -49,3 +49,13 @@
 **Detailed Notes:** [Read more](./Day-5/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1347676183681490952?s=20)
+
+### Day 6: January 10, 2021
+
+**Today's Progress**: Completed Week 2 of [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** The concepts of Exit Status and Cryptography was explicitly covered.  
+
+**Detailed Notes:** [Read more](./Day-6/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1348365356528775168?s=20)
