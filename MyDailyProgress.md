@@ -59,3 +59,13 @@
 **Detailed Notes:** [Read more](./Day-6/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1348365356528775168?s=20)
+
+### Day 7: January 11, 2021
+
+**Today's Progress**: Started Week 3 of CS50 [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Delved into Algorithms. Covered topics such as: Running Time, Big O Notation, and Linear Search.  
+
+**Detailed Notes:** [Read more](./Day-7/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1348715776023404544?s=20)
