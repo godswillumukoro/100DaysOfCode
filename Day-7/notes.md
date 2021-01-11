@@ -2,7 +2,7 @@
 
 11-01-2021
 
-(Here's the tweet)[https://twitter.com/umuks_/status/1348715776023404544?s=20]
+[Here's the tweet](https://twitter.com/umuks_/status/1348715776023404544?s=20)
 
 Starting WEEK3 - Algorithms
 
