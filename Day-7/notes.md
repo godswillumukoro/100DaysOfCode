@@ -12,29 +12,24 @@ Computers are methodical or algorithmic. And so, as powerful as computer may be,
 
 Refers to how long an algorithm takes to run. O(italicized O. Known as Big O notation.) is formally used to describe the running times of an algorithm.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/930fd120-a517-499d-a650-c37d236deec9/Screenshot_2021-01-11_at_07.43.26.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/930fd120-a517-499d-a650-c37d236deec9/Screenshot_2021-01-11_at_07.43.26.png)
 
 ### Notation:
 
 Big O - Refers to upper bound (worst case) notation when comparing the efficiency or inefficiency of an algorithm
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b09c0106-aba6-4490-a2d2-57d9913b6615/Screenshot_2021-01-11_at_07.46.25.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b09c0106-aba6-4490-a2d2-57d9913b6615/Screenshot_2021-01-11_at_07.46.25.png)
 
 Omega Ω - Refers to lower bound (best case) notation when comparing the efficiency or inefficiency of an algorithm
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f401169-6f90-4cb3-a47a-66099f773adf/Screenshot_2021-01-11_at_07.52.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f401169-6f90-4cb3-a47a-66099f773adf/Screenshot_2021-01-11_at_07.52.22.png)
 
 ### Linear Search
 
  Searches conventionally from left to right, or equivalently from right to left.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5fa129e-a887-41ed-a5b8-e9f854e9c8b7/Screenshot_2021-01-11_at_12.32.50.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5fa129e-a887-41ed-a5b8-e9f854e9c8b7/Screenshot_2021-01-11_at_12.32.50.png)
 
 ### Binary Search
 
 Starts search from the middle. But the list your are searching most be sorted serially for this to work out. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f3148ab-b212-4866-adc6-f91f8e285bf0/Screenshot_2021-01-11_at_16.08.47.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f3148ab-b212-4866-adc6-f91f8e285bf0/Screenshot_2021-01-11_at_16.08.47.png)
 
 ### Difference Between Linear and Binary Search
 
