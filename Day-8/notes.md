@@ -4,6 +4,8 @@
 
 Continued Lecture 3 - Algorithms
 
+[Here's the tweet]("https://twitter.com/umuks_/status/1349088809498062848?s=20")
+
 ### How To Create Your own Data Type in C
 
 C gives us the ability to create our own custom data types.
