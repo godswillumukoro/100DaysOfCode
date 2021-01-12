@@ -69,3 +69,13 @@
 **Detailed Notes:** [Read more](./Day-7/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1348715776023404544?s=20)
+
+### Day 8: January 12, 2021
+
+**Today's Progress**: Continued Lecture 3 - Algorithms [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Created custom data types in C. Also touched on the selection sort algorithm  
+
+**Detailed Notes:** [Read more](./Day-8/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1349088809498062848?s=20)
