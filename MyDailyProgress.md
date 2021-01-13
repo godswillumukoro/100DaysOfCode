@@ -79,3 +79,13 @@
 **Detailed Notes:** [Read more](./Day-8/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1349088809498062848?s=20)
+
+### Day 9: January 13, 2021
+
+**Today's Progress**: Completed Lecture 3 - Algorithms [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** I was able to differentiate between Selection Sort, Bubble Sort, Merge Sort. Also touched on when to use Theta θ.  
+
+**Detailed Notes:** [Read more](./Day-9/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1349466510587269126?s=20)
