@@ -4,6 +4,8 @@
 
 Lecture 4 - Memory
 
+[Here's the tweet](https://twitter.com/umuks_/status/1349826739434901506?s=20)
+
 ### Hexadecimal Base System
 
 Computer scientists, when numbering bytes within a computer memory, typically use a base 16 numbering system known as Hexadecimal which contains 16 Digits.
