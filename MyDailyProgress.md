@@ -89,3 +89,14 @@
 **Detailed Notes:** [Read more](./Day-9/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1349466510587269126?s=20)
+
+
+### Day 10: January 14, 2021
+
+**Today's Progress**: Started Lecture 4 - Memory [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned why we use the Hexadecimals as our default base system
+
+**Detailed Notes:** [Read more](./Day-10/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1349826739434901506?s=20)
