@@ -8,7 +8,7 @@ Continued Lecture 4 - Memory
 
 Lets prefix Hex codes with **0x** to symbolize its a hex not a decimal number.
 
-![./01.png]
+![Image depicting a computer memory](./01.png)
 
 ### Ampersand &
 
