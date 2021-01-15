@@ -44,7 +44,7 @@ int n = 50;
 
 Strings can be manipulated by their addresses too.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f09ae19-5657-4413-bee3-263d96c1df0e/Screenshot_2021-01-15_at_05.55.18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f09ae19-5657-4413-bee3-263d96c1df0e/Screenshot_2021-01-15_at_05.55.18.png)
+![Image dipicting Strings in Memory](./02.png)
 
 See code example below:
 
