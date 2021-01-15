@@ -8,7 +8,7 @@ Continued Lecture 4 - Memory
 
 Lets prefix Hex codes with **0x** to symbolize its a hex not a decimal number.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8dd99a7-5535-4866-be4f-166da9b1b7dc/Screenshot_2021-01-15_at_05.19.23.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8dd99a7-5535-4866-be4f-166da9b1b7dc/Screenshot_2021-01-15_at_05.19.23.png)
+![./01.png]
 
 ### Ampersand &
 
