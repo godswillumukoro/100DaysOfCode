@@ -100,3 +100,13 @@
 **Detailed Notes:** [Read more](./Day-10/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1349826739434901506?s=20)
+
+### Day 11: January 15, 2021
+
+**Today's Progress**: Continued Lecture 4 - Memory [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned about Pointers and how String is stored in memory as just an array of characters.
+
+**Detailed Notes:** [Read more](./Day-11/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1350167431642304516?s=20)
