@@ -2,7 +2,7 @@
 
 15-01-2021
 
-(Here's the tweet!)[https://twitter.com/umuks_/status/1350167431642304516?s=20]
+[Here's the tweet!](https://twitter.com/umuks_/status/1350167431642304516?s=20)
 
 Continued Lecture 4 - Memory
 
