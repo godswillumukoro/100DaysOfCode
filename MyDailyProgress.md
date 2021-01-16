@@ -110,3 +110,13 @@
 **Detailed Notes:** [Read more](./Day-11/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1350167431642304516?s=20)
+
+### Day 12: January 16, 2021
+
+**Today's Progress**: Continued Lecture 4 - Memory [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned about copying strings.
+
+**Detailed Notes:** [Read more](./Day-12/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1350575965643153413?s=20)
