@@ -4,6 +4,8 @@
 
 Continued Lecture 4 - Memory
 
+[Here's the tweet](https://twitter.com/umuks_/status/1350575965643153413?s=20)
+
 ### Copying Strings
 
 Copying strings as shown in the example below means that the addresses gets coped, hence the copied string is ident5ical to the first. See example below:
