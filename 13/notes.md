@@ -1,6 +1,7 @@
 ## DAY 13:
 
 17-01-2021
+[Here's the tweet](https://twitter.com/umuks_/status/1350886525064589317?s=20)
 
 **Continuing my notes from where i stopped yesterday.**
 
