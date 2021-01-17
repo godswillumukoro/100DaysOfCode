@@ -18,7 +18,8 @@ Check out **[My Daily Progress](./MyDailyProgress.md)**
 9. [DAY 9](./Day-9/notes.md)
 10. [DAY 10](./Day-10/notes.md)
 11. [DAY 11](./Day-11/notes.md)
-11. [DAY 12](./Day-12/notes.md)
+12. [DAY 12](./Day-12/notes.md)
+13. [DAY 13](./Day-13/notes.md)
 
 **Socials**
 1. [Here's my Twitter](https://twitter.com/umuks_)
