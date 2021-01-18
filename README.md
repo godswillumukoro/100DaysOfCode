@@ -19,7 +19,7 @@ Check out **[My Daily Progress](./MyDailyProgress.md)**
 10. [DAY 10](./Day-10/notes.md)
 11. [DAY 11](./Day-11/notes.md)
 12. [DAY 12](./Day-12/notes.md)
-13. [DAY 13](./Day-13/notes.md)
+13. [DAY 13](./13/notes.md)
 14. [DAY 14](./Day-14/notes.md)
 
 **Socials**
