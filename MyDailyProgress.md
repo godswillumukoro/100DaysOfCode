@@ -127,7 +127,7 @@
 
 **Thoughts:** Learned the subtle difference between NULL (as used in pointers) and nul (/0)
 
-**Detailed Notes:** [Read more](./Day-13/notes.md)
+**Detailed Notes:** [Read more](13/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1350886525064589317?s=20)
 
