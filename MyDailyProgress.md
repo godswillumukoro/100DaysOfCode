@@ -121,6 +121,16 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1350575965643153413?s=20)
 
+### Day 13: January 17, 2021
+
+**Today's Progress**: Continued Lecture 4 - Memory [CS50](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:** Learned the subtle difference between NULL (as used in pointers) and nul (/0)
+
+**Detailed Notes:** [Read more](./Day-13/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1350886525064589317?s=20)
+
 ### Day 14: January 18, 2021
 
 **Today's Progress**: Continued Lecture 4 - Memory [CS50](https://cs50.harvard.edu/x/2021/)
