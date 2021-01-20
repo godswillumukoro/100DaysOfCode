@@ -1,6 +1,6 @@
 ## DAY 16:
 
-20-01-2021
+20-01-2021 [Here's the Tweet](https://twitter.com/umuks_/status/1351985676523331586?s=20)
 
 Continued  Lecture 5 - Data Structures
 
