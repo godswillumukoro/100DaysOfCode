@@ -141,7 +141,7 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1351289259160907784?s=20)
 
-### Day 14: January 19, 2021
+### Day 15: January 19, 2021
 
 **Today's Progress**: Finished Lecture 4 - Memory and started Lecture 5 - Data Structures(https://cs50.harvard.edu/x/2021/)
 
@@ -150,5 +150,15 @@
 **Detailed Notes:** [Read more](./Day-15/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1351766339254448137?s=20)
+
+### Day 16: January 20, 2021
+
+**Today's Progress**: Continued Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Learned about Linked List. Its advantages as well as its disadvantages.
+
+**Detailed Notes:** [Read more](./Day-16/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1351985676523331586?s=20)
 
 
