@@ -1,6 +1,6 @@
 ## DAY 15:
 
-19-01-2021
+19-01-2021 [Here's the tweet](https://twitter.com/umuks_/status/1351766339254448137?s=20)
 
 Continued Lecture 4 - Memory
 
