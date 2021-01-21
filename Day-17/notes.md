@@ -1,3 +1,4 @@
+[Here's the Tweet](https://twitter.com/umuks_/status/1352366209203908612?s=20)
 # The Modern Computer
 
 ## Intro to Computer Hardware
