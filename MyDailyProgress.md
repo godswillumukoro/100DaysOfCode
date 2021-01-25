@@ -161,4 +161,23 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1351985676523331586?s=20)
 
+### Day 17: January 21, 2021
+
+**Today's Progress**: Continued Google's IT Support Professional Course on Coursera
+
+**Thoughts:** Learned about CPU's and Clock speeds.
+
+**Detailed Notes:** [Read more](./Day-17/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1352366209203908612?s=20)
+
+### Day 18: January 25, 2021
+
+**Today's Progress**: Continued Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Learned about Malloc in C and how its different from using Arrays.
+
+**Detailed Notes:** [Read more](./Day-18/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1353775192380735488?s=20)
 
