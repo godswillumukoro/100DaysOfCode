@@ -2,6 +2,8 @@
 
 25-01-2021
 
+[Here's the tweet](https://twitter.com/umuks_/status/1353775192380735488?s=20)
+
 Continued Lecture 4 - Data Structures and Algorithms
 
 ## Malloc vs Arrays in c
