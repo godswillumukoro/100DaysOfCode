@@ -181,3 +181,13 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1353775192380735488?s=20)
 
+### Day 19: January 26, 2021
+
+**Today's Progress**: Completed Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Learned about Hash Tables and Hash functions. Also Abstract Data Structures such as Queues, Stacks, and Dictionaries.
+
+**Detailed Notes:** [Read more](./Day-19/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1354170700383346689?s=20)
+
