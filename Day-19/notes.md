@@ -53,8 +53,8 @@ For example:
 **Becomes this:**
 
 ```jsx
-		2
-1        3
+	2
+1		3
 ```
 
 ## Hash Tables
