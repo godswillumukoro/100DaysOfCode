@@ -30,7 +30,7 @@ Binary Search brings the best of both worlds, its a two-dimensional data structu
 
 Pointers are like a needle that we can use to stitch things in memory.
 
-![./images/01.png](./images/01.png)
+![./01.png](./01.png)
 
 A root node, and left and right children.
 
