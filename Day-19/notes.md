@@ -1,6 +1,6 @@
 ## DAY 19:
 
-26-01-2021
+26-01-2021 [Here's the link](https://twitter.com/umuks_/status/1354170700383346689?s=20)
 
 Continued Lecture 5 - Data Structures
 
