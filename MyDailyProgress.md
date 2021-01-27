@@ -191,3 +191,13 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1354170700383346689?s=20)
 
+### Day 20: January 27, 2021
+
+**Today's Progress**: Started Lecture 6 - [Python](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Started learning Python by refactoring code written in C.
+
+**Detailed Notes:** [Read more](./Day-120/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1354522625507274760?s=20)
+
