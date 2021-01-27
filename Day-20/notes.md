@@ -1,6 +1,6 @@
 ## DAY 20:
 
-27-01-2021
+27-01-2021 [Link to Tweet](https://twitter.com/umuks_/status/1354522625507274760?s=20)
 
 Started Lecture 6 - Python
 
