@@ -1,6 +1,6 @@
 ## DAY 22:
 
-29-01-2021
+29-01-2021 [Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
 
 Completed  Lecture 6 - Python
 
