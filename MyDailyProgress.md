@@ -215,6 +215,14 @@
 
 **Thoughts:**  Started learning Python by refactoring code written in C.
 
-**Detailed Notes:** [Read more](./Day-120/notes.md)
+**Detailed Notes:** [Read more](./Day-20/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1354522625507274760?s=20)
+
+**Today's Progress**: Completed Lecture 6 - [Python](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Learned about reading and writing into files with Python. Also attempted storing data into a flat-file database.
+
+**Detailed Notes:** [Read more](./Day-21/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
