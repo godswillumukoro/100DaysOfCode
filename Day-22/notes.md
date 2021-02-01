@@ -2,7 +2,7 @@
 
 29-01-2021 [Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
 
-Completed  Lecture 6 - Python
+Completed  Lecture 7 - SQL
 
 ## Writing into Files in Python
 
