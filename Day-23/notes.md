@@ -1,6 +1,6 @@
 ## DAY 23:
 
-01-02-2021
+01-02-2021 [Here's the Link](https://twitter.com/umuks_/status/1356286053032882176?s=20)
 
 Continuing  Lecture 7 - SQL
 
