@@ -210,3 +210,13 @@
 **Detailed Notes:** [Read more](./Day-21/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
+
+### Day 22: January 30, 2021
+
+**Today's Progress**: Finished Lecture 6 and Started Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**  Learned about reading and writing into files with Python. Also attempted storing data into a flat-file database.
+
+**Detailed Notes:** [Read more](./Day-22/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
