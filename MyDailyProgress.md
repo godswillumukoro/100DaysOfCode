@@ -220,3 +220,23 @@
 **Detailed Notes:** [Read more](./Day-22/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1355373775735422979?s=20)
+
+### Day 23: Febuary 1, 2021
+
+**Today's Progress**: Continued Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**   Learned how to iterate over data in CSV files with Python. Also learned more about tricks when looping data inside dictionaries.
+
+**Detailed Notes:** [Read more](./Day-23/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1356286053032882176?s=20)
+
+### Day 24: Febuary 2, 2021
+
+**Today's Progress**: Continued Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**   Learned about Lambda functions in python and transitioned from using flat-file .csv databases to using SQLite which is a Relational Database.
+
+**Detailed Notes:** [Read more](./Day-24/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1356689386969120772?s=20)
