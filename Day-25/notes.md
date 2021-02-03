@@ -1,6 +1,6 @@
 ## DAY 25:
 
-03-02-2021
+03-02-2021 [Find the Tweet](https://twitter.com/umuks_/status/1357061478566813706?s=20)
 
 Continuing  Lecture 7 - SQL
 
@@ -144,7 +144,7 @@ The library called Flask is a python framework. A framework is a way of doing th
 
 Flask implements whats known as the MVC design pattern.
 
-![Screenshot of MVP model](./images/01.png)
+![Screenshot of MVP model](./01.png)
 
 **MODEL: The database**
 
