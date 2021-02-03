@@ -240,3 +240,13 @@
 **Detailed Notes:** [Read more](./Day-24/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1356689386969120772?s=20)
+
+### Day 25: Febuary 3, 2021
+
+**Today's Progress**: Completed Lecture 7 and Started Lecture 8 [Flask](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**   Bridged the worlds of Python and SQL together by writing SQL commands inside of Python code. Also started Lecture 8 where "How the Internet Works" was explained at a much lower level
+
+**Detailed Notes:** [Read more](./Day-25/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1356689386969120772?s=20)
