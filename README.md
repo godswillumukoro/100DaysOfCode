@@ -33,6 +33,7 @@ Check out **[My Daily Progress](./MyDailyProgress.md)**
 24. [DAY 24](./Day-24/notes.md)
 25. [DAY 25](./Day-25/notes.md)
 26. [DAY 26](./Day-26/notes.md)
+27. [DAY 27](./Day-27/notes.md)
 
 **Socials**
 1. [Here's my Twitter](https://twitter.com/umuks_)
