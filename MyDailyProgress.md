@@ -261,3 +261,14 @@
 **Detailed Notes:** [Read more](./Day-26/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1357530905687052288?s=20)
+
+### Day 27: Febuary 5, 2021
+
+**Today's Progress**: Completed all CS50 [Classes](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**   Powerful Course in general, helped me truly understand the very important, yet frequently overlooked fundamentals of programming.
+
+**Detailed Notes:** [Read more](./Day-27/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1357758023356325894?s=20)
+
