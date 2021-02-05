@@ -243,10 +243,21 @@
 
 ### Day 25: Febuary 3, 2021
 
-**Today's Progress**: Completed Lecture 7 and Started Lecture 8 [Flask](https://cs50.harvard.edu/x/2021/)
+**Today's Progress**: Completed Lecture 7, 8 and Started Lecture 9 [Flask](https://cs50.harvard.edu/x/2021/)
 
 **Thoughts:**   Bridged the worlds of Python and SQL together by writing SQL commands inside of Python code. Also started Lecture 8 where "How the Internet Works" was explained at a much lower level
 
 **Detailed Notes:** [Read more](./Day-25/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1356689386969120772?s=20)
+
+
+### Day 26: Febuary 4, 2021
+
+**Today's Progress**: Dabbled into Basic HTML and CSS. as per[Lecture 8](https://cs50.harvard.edu/x/2021/)
+
+**Thoughts:**   Re-learned the basics
+
+**Detailed Notes:** [Read more](./Day-26/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1357530905687052288?s=20)
