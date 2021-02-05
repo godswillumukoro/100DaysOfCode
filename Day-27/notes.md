@@ -1,6 +1,6 @@
 ## DAY 27:
 
-05-02-2020
+05-02-2020 [Here's the Tweet](https://twitter.com/umuks_/status/1357758023356325894?s=20)
 
 ### How a Flask Application is Organized
 
