@@ -1,6 +1,6 @@
 ## DAY 28:
 
-06-02-2020
+06-02-2020 [Here is the tweet](https://twitter.com/umuks_/status/1358293610794467328?s=20)
 
 Started Learning Javascript using :The Modern Javascript Bootcamp Course - Stephen Grider & Colt Steel.
 
