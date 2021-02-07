@@ -272,3 +272,13 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1357758023356325894?s=20)
 
+### Day 28: Febuary 6, 2021
+
+**Today's Progress**: It's my goal to learn the MERN stack and get a job this year, so I started learning Javascript.
+
+**Thoughts:**   Got some foundational knowledge on Javascript as a language.
+
+**Detailed Notes:** [Read more](./Day-28/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1358293610794467328?s=20)
+
