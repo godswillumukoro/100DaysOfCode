@@ -282,3 +282,13 @@
 
 [Here's the tweet](https://twitter.com/umuks_/status/1358293610794467328?s=20)
 
+### Day 29: Febuary 7, 2021
+
+**Today's Progress**: Gave my self more reasons to learn the MERN stack sooner.
+
+**Thoughts:**   I had meetings with my client. And I chose to learn enough MERN stack so I can build the application with.
+
+**Detailed Notes:** [Read more](./Day-28/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1358293610794467328?s=20)
+
