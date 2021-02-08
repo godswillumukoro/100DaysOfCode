@@ -290,5 +290,5 @@
 
 **Detailed Notes:** [Read more](./Day-28/notes.md)
 
-[Here's the tweet](https://twitter.com/umuks_/status/1358293610794467328?s=20)
+[Here's the tweet](https://twitter.com/umuks_/status/1358648861850492934?s=20)
 
