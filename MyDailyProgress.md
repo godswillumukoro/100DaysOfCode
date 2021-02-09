@@ -288,7 +288,16 @@
 
 **Thoughts:**   I had meetings with my client. And I chose to learn enough MERN stack so I can build the application with.
 
-**Detailed Notes:** [Read more](./Day-28/notes.md)
+**Detailed Notes:** [Read more](./Day-29/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1358648861850492934?s=20)
 
+### Day 30: Febuary 8, 2021
+
+**Today's Progress**: Continued the JS course
+
+**Thoughts:**   Did some JS fundamentals
+
+**Detailed Notes:** [Read more](./Day-30/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1358648861850492934?s=20)
