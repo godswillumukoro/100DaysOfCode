@@ -8,7 +8,7 @@ When you concatenate a string with a number, the result will be a concatenated s
 
 Each character has a corresponding index (a positional number)
 
-![01.png](01.png)
+![01.png](02.png)
 
 The first character in a string has the index of zero. An we can access individual characters in a string by their indices. 
 
@@ -92,7 +92,7 @@ school.replace('located', 'situated');
 
 ### String Escape Characters
 
-![string escape characters](02.png)
+![string escape characters](01.png)
 
 ### String Template Literals
 
