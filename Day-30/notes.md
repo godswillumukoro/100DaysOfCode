@@ -8,7 +8,7 @@ When you concatenate a string with a number, the result will be a concatenated s
 
 Each character has a corresponding index (a positional number)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0565eb5b-0e2b-415f-b587-9a87ee8add06/Screenshot_2021-02-07_at_06.49.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0565eb5b-0e2b-415f-b587-9a87ee8add06/Screenshot_2021-02-07_at_06.49.46.png)
+![01.png](01.png)
 
 The first character in a string has the index of zero. An we can access individual characters in a string by their indices. 
 
@@ -92,7 +92,7 @@ school.replace('located', 'situated');
 
 ### String Escape Characters
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a344bb03-62dc-4a81-b8a7-a59442cc91ea/Screenshot_2021-02-08_at_16.18.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a344bb03-62dc-4a81-b8a7-a59442cc91ea/Screenshot_2021-02-08_at_16.18.22.png)
+![string escape characters](02.png)
 
 ### String Template Literals
 
