@@ -1,4 +1,4 @@
-### Strings
+### Strings [See the tweet](https://twitter.com/umuks_/status/1358990464557473795?s=20)
 
 Strings are pieces of text, or strings of characters. We wrap them in quotes
 
