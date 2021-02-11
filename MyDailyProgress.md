@@ -301,3 +301,14 @@
 **Detailed Notes:** [Read more](./Day-30/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1358648861850492934?s=20)
+
+
+### Day 31: Febuary 10, 2021
+
+**Today's Progress**: Continued the JS course
+
+**Thoughts:**   Did some more JS fundamentals
+
+**Detailed Notes:** [Read more](./Day-31/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1359727302473572353?s=20)
