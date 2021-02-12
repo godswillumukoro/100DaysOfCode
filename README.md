@@ -38,6 +38,7 @@ Check out **[My Daily Progress](./MyDailyProgress.md)**
 29. [DAY 29](./Day-29/notes.md)
 30. [DAY 30](./Day-30/notes.md)
 31. [DAY 31](./Day-31/notes.md)
+32. [DAY 32](./Day-32/notes.md)
 
 **Socials**
 1. [Here's my Twitter](https://twitter.com/umuks_)
