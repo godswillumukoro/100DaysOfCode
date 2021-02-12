@@ -1,3 +1,4 @@
+[TWEET HERE](https://twitter.com/umuks_/status/1360108062812614656?s=20)
 NOT (!)
 
 Operates one a single expression. !expression returns true if the expression is false. 
