@@ -322,3 +322,14 @@
 **Detailed Notes:** [Read more](./Day-32/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1360108062812614656?s=20)
+
+
+### Day 33: Febuary 18, 2021
+
+**Today's Progress**: Worked with Objects
+
+**Thoughts:**   My laptop crashed, I had to wait for days to have it fixed.
+
+**Detailed Notes:** [Read more](./Day-33/notes.md)
+
+[Here's the tweet](https://twitter.com/umuks_/status/1362254405312139264?s=20)
