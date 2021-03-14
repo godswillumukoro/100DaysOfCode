@@ -1,5 +1,5 @@
 Date - 14 March, 2021
-[Tweet Here]()
+[Tweet Here](https://twitter.com/umuks_/status/1370892114725322755?s=20)
 
 ### Accessing Object Properties
 
