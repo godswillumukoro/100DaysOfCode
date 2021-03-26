@@ -4,6 +4,6 @@ Day 60 of #100DaysOfCode Built me a calculator with Dart.
 
 Dart looks just like JS, only simpler.
 
-Check out my code: https://replit.com/@godswillumukoro/Dart-Tutorial#main.dart
+[Check out my code](https://replit.com/@godswillumukoro/Dart-Tutorial#main.dart)
 
 #codeNewbie #DevCommunity #dart #flutter
