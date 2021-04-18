@@ -34,7 +34,7 @@
 
 **Today's Progress**: Started Week 2 of CS50 2021 [work](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned to use Arrays in C
+**Thoughts:** Learned to use Arrays in C  
 
 **Detailed Notes:** [Read more](./Day-4/notes.md)
 
@@ -44,7 +44,7 @@
 
 **Today's Progress**: Continued with Week 2 of CS50 2021 work [work](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned the diff. between Strings and Chars
+**Thoughts:** Learned the diff. between Strings and Chars  
 
 **Detailed Notes:** [Read more](./Day-5/notes.md)
 
@@ -54,7 +54,7 @@
 
 **Today's Progress**: Completed Week 2 of [CS50](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** The concepts of Exit Status and Cryptography was explicitly covered.
+**Thoughts:** The concepts of Exit Status and Cryptography was explicitly covered.  
 
 **Detailed Notes:** [Read more](./Day-6/notes.md)
 
@@ -64,7 +64,7 @@
 
 **Today's Progress**: Started Week 3 of CS50 [CS50](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Delved into Algorithms. Covered topics such as: Running Time, Big O Notation, and Linear Search.
+**Thoughts:** Delved into Algorithms. Covered topics such as: Running Time, Big O Notation, and Linear Search.  
 
 **Detailed Notes:** [Read more](./Day-7/notes.md)
 
@@ -74,7 +74,7 @@
 
 **Today's Progress**: Continued Lecture 3 - Algorithms [CS50](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Created custom data types in C. Also touched on the selection sort algorithm
+**Thoughts:** Created custom data types in C. Also touched on the selection sort algorithm  
 
 **Detailed Notes:** [Read more](./Day-8/notes.md)
 
@@ -84,11 +84,12 @@
 
 **Today's Progress**: Completed Lecture 3 - Algorithms [CS50](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** I was able to differentiate between Selection Sort, Bubble Sort, Merge Sort. Also touched on when to use Theta θ.
+**Thoughts:** I was able to differentiate between Selection Sort, Bubble Sort, Merge Sort. Also touched on when to use Theta θ.  
 
 **Detailed Notes:** [Read more](./Day-9/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1349466510587269126?s=20)
+
 
 ### Day 10: January 14, 2021
 
@@ -154,7 +155,7 @@
 
 **Today's Progress**: Continued Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned about Linked List. Its advantages as well as its disadvantages.
+**Thoughts:**  Learned about Linked List. Its advantages as well as its disadvantages.
 
 **Detailed Notes:** [Read more](./Day-16/notes.md)
 
@@ -174,7 +175,7 @@
 
 **Today's Progress**: Continued Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned about Malloc in C and how its different from using Arrays.
+**Thoughts:**  Learned about Malloc in C and how its different from using Arrays.
 
 **Detailed Notes:** [Read more](./Day-18/notes.md)
 
@@ -184,7 +185,7 @@
 
 **Today's Progress**: Completed Lecture 5 - [Data Structures](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned about Hash Tables and Hash functions. Also Abstract Data Structures such as Queues, Stacks, and Dictionaries.
+**Thoughts:**  Learned about Hash Tables and Hash functions. Also Abstract Data Structures such as Queues, Stacks, and Dictionaries.
 
 **Detailed Notes:** [Read more](./Day-19/notes.md)
 
@@ -194,7 +195,7 @@
 
 **Today's Progress**: Started Lecture 6 - [Python](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Started learning Python by refactoring code written in C.
+**Thoughts:**  Started learning Python by refactoring code written in C.
 
 **Detailed Notes:** [Read more](./Day-20/notes.md)
 
@@ -204,7 +205,7 @@
 
 **Today's Progress**: Continued Lecture 6 - [Python](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Played around more with Python
+**Thoughts:**  Played around more with Python
 
 **Detailed Notes:** [Read more](./Day-21/notes.md)
 
@@ -214,7 +215,7 @@
 
 **Today's Progress**: Finished Lecture 6 and Started Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned about reading and writing into files with Python. Also attempted storing data into a flat-file database.
+**Thoughts:**  Learned about reading and writing into files with Python. Also attempted storing data into a flat-file database.
 
 **Detailed Notes:** [Read more](./Day-22/notes.md)
 
@@ -224,7 +225,7 @@
 
 **Today's Progress**: Continued Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned how to iterate over data in CSV files with Python. Also learned more about tricks when looping data inside dictionaries.
+**Thoughts:**   Learned how to iterate over data in CSV files with Python. Also learned more about tricks when looping data inside dictionaries.
 
 **Detailed Notes:** [Read more](./Day-23/notes.md)
 
@@ -234,7 +235,7 @@
 
 **Today's Progress**: Continued Lecture 7 - [SQL](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Learned about Lambda functions in python and transitioned from using flat-file .csv databases to using SQLite which is a Relational Database.
+**Thoughts:**   Learned about Lambda functions in python and transitioned from using flat-file .csv databases to using SQLite which is a Relational Database.
 
 **Detailed Notes:** [Read more](./Day-24/notes.md)
 
@@ -244,17 +245,18 @@
 
 **Today's Progress**: Completed Lecture 7, 8 and Started Lecture 9 [Flask](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Bridged the worlds of Python and SQL together by writing SQL commands inside of Python code. Also started Lecture 8 where "How the Internet Works" was explained at a much lower level
+**Thoughts:**   Bridged the worlds of Python and SQL together by writing SQL commands inside of Python code. Also started Lecture 8 where "How the Internet Works" was explained at a much lower level
 
 **Detailed Notes:** [Read more](./Day-25/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1356689386969120772?s=20)
 
+
 ### Day 26: Febuary 4, 2021
 
 **Today's Progress**: Dabbled into Basic HTML and CSS. as per[Lecture 8](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Re-learned the basics
+**Thoughts:**   Re-learned the basics
 
 **Detailed Notes:** [Read more](./Day-26/notes.md)
 
@@ -264,7 +266,7 @@
 
 **Today's Progress**: Completed all CS50 [Classes](https://cs50.harvard.edu/x/2021/)
 
-**Thoughts:** Powerful Course in general, helped me truly understand the very important, yet frequently overlooked fundamentals of programming.
+**Thoughts:**   Powerful Course in general, helped me truly understand the very important, yet frequently overlooked fundamentals of programming.
 
 **Detailed Notes:** [Read more](./Day-27/notes.md)
 
@@ -274,7 +276,7 @@
 
 **Today's Progress**: It's my goal to learn the MERN stack and get a job this year, so I started learning Javascript.
 
-**Thoughts:** Got some foundational knowledge on Javascript as a language.
+**Thoughts:**   Got some foundational knowledge on Javascript as a language.
 
 **Detailed Notes:** [Read more](./Day-28/notes.md)
 
@@ -284,7 +286,7 @@
 
 **Today's Progress**: Gave my self more reasons to learn the MERN stack sooner.
 
-**Thoughts:** I had meetings with my client. And I chose to learn enough MERN stack so I can build the application with.
+**Thoughts:**   I had meetings with my client. And I chose to learn enough MERN stack so I can build the application with.
 
 **Detailed Notes:** [Read more](./Day-29/notes.md)
 
@@ -294,17 +296,18 @@
 
 **Today's Progress**: Continued the JS course
 
-**Thoughts:** Did some JS fundamentals
+**Thoughts:**   Did some JS fundamentals
 
 **Detailed Notes:** [Read more](./Day-30/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1358648861850492934?s=20)
 
+
 ### Day 31: Febuary 10, 2021
 
 **Today's Progress**: Continued the JS course
 
-**Thoughts:** Did some more JS fundamentals
+**Thoughts:**   Did some more JS fundamentals
 
 **Detailed Notes:** [Read more](./Day-31/notes.md)
 
@@ -314,77 +317,19 @@
 
 **Today's Progress**: Continued the JS course
 
-**Thoughts:** Did some more JS fundamentals
+**Thoughts:**   Did some more JS fundamentals
 
 **Detailed Notes:** [Read more](./Day-32/notes.md)
 
 [Here's the tweet](https://twitter.com/umuks_/status/1360108062812614656?s=20)
 
+
 ### Day 33: Febuary 18, 2021
 
 **Today's Progress**: Worked with Objects
 
-**Thoughts:** My laptop crashed, I had to wait for days to have it fixed.
+**Thoughts:**   My laptop crashed, I had to wait for days to have it fixed.
 
 **Detailed Notes:** [Read more](./Day-33/notes.md)
 
-# [Here's the tweet](https://twitter.com/umuks_/status/1362254405312139264?s=20)
-
-# 100DaysOfCode
-
-My Journey for One hundred days of coding, learning, debugging and demystifying programming concepts
-
-Started this journey on January 1, 2021.
-
-Check out **[My Daily Progress](./MyDailyProgress.md)**
-
-**Quick Links**
-
-1. [DAY 1](./Day-1/notes.md)
-2. [DAY 2](./Day-2/notes.md)
-3. [DAY 3](./Day-3/notes.md)
-4. [DAY 4](./Day-4/notes.md)
-5. [DAY 5](./Day-5/notes.md)
-6. [DAY 6](./Day-6/notes.md)
-7. [DAY 7](./Day-7/notes.md)
-8. [DAY 8](./Day-8/notes.md)
-9. [DAY 9](./Day-9/notes.md)
-10. [DAY 10](./Day-10/notes.md)
-11. [DAY 11](./Day-11/notes.md)
-12. [DAY 12](./Day-12/notes.md)
-13. [DAY 13](./13/notes.md)
-14. [DAY 14](./Day-14/notes.md)
-15. [DAY 15](./Day-15/notes.md)
-16. [DAY 16](./Day-16/notes.md)
-17. [DAY 17](./Day-17/notes.md)
-18. [DAY 18](./Day-18/notes.md)
-19. [DAY 19](./Day-19/notes.md)
-20. [DAY 20](./Day-20/notes.md)
-21. [DAY 21](./Day-21/notes.md)
-22. [DAY 22](./Day-22/notes.md)
-23. [DAY 23](./Day-23/notes.md)
-24. [DAY 24](./Day-24/notes.md)
-25. [DAY 25](./Day-25/notes.md)
-26. [DAY 26](./Day-26/notes.md)
-27. [DAY 27](./Day-27/notes.md)
-28. [DAY 28](./Day-28/notes.md)
-29. [DAY 29](./Day-29/notes.md)
-30. [DAY 30](./Day-30/notes.md)
-31. [DAY 31](./Day-31/notes.md)
-32. [DAY 32](./Day-32/notes.md)
-33. [DAY 33](./Day-33/notes.md)
-34. [DAY 34](./Day-34/notes.md)
-35. [DAY 35](./Day-35/notes.md)
-36. [DAY 36](./Day-36/notes.md)
-37. [DAY 37](./Day-37/notes.md)
-38. [DAY 38](./Day-38/notes.md)
-39. [DAY 39](./Day-39/notes.md)
-
-**Socials**
-
-1. [Here's my Twitter](https://twitter.com/umuks_)
-2. [Read my blog posts on Hashnode](https://godswillumukoro.hashnode.dev/)
-
-<<<<<<
-
-> > > > > > > d484f5ee92abfe17ef1e83ad5a0d26fcff2c057a
+[Here's the tweet](https://twitter.com/umuks_/status/1362254405312139264?s=20)
