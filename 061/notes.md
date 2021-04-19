@@ -1,4 +1,4 @@
-> Date: 18, April 2021. [View Tweet](https://twitter.com/umuks_/status/1375426500388851714?s=20)
+> Date: 18, April 2021. [View Tweet](https://twitter.com/umuks_/status/1383782365063876623)
 
 ### Day 61 Started HTML and CSS tutorial by Brad Traversy
 
