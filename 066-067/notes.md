@@ -1,6 +1,6 @@
 #### Date: 23/24-April-2021
 
-> Today's [tweet]()
+> Today's [tweet](https://twitter.com/umuks_/status/1386189179651084290?s=20)
 
 - Trained a client's team on how to use their new website I built.
 
