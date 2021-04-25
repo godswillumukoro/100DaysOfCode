@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cornflowerblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  max-width: 25%;
+  margin: 50px auto;
+  background-color: aliceblue;
+}
+
+.container .header {
+  text-align: center;
+  padding: 15px 0;
+  line-height: 2.2rem;
+  color: rgba(0, 0, 0, 0.76);
+}
+
+.container .header h1 {
+  font-size: 1.8rem;
+  font-weight: lighter;
+}
+
+.container .header p {
+  font-size: 0.83rem;
+}
+
+.container form label {
+  padding: 0 45px 10px 15px;
+  line-height: 1.5rem;
+  color: rgba(0, 0, 0, 0.76);
+  display: block;
+}
+
+.container form input {
+  margin: 0 45px 10px 15px;
+  width: 90%;
+  height: 30px;
+  border: 1px solid rgb(221, 221, 221);
+}
+.container form .btn {
+  background-color: rgb(33, 158, 102);
+  height: 30px;
+  border-radius: 3px;
+  color: aliceblue;
+  border: 1px solid aliceblue;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.footer {
+  text-align: center;
+  font-size: 0.7rem;
+  padding: 5px 10px 15px 10px;
+  color: rgba(0, 0, 0, 0.76);
+}
+
+footer {
+  text-align: center;
+  margin-top: -40px;
+  font-size: 0.8rem;
+  color: aliceblue;
+}
+
+footer a {
+  color: rgb(0, 92, 0);
+}
